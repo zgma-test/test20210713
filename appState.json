@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "11ba410a-22cb-451d-a319-547e350720a9": {
+        "id": "11ba410a-22cb-451d-a319-547e350720a9",
+        "parent": null,
+        "name": "Test20210713.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "Test20210713.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs14.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "Test20210713"
+        },
+        "triggers": [],
+        "lastUpdated": 1626157352280
+      }
+    },
+    "openFiles": [
+      "11ba410a-22cb-451d-a319-547e350720a9"
+    ],
+    "currentFileId": "11ba410a-22cb-451d-a319-547e350720a9",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.9.2",
+    "projectName": "Test20210713",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1626157358790
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "test20210713",
+      "url": "https://github.com/zgma-test/test20210713"
+    }
+  }
+}
