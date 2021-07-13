@@ -12,7 +12,7 @@
         "filePath": "Test20210713.js",
         "cursor": {
           "lineNumber": 3,
-          "column": 50
+          "column": 52
         },
         "config": {
           "runtime": "nodejs14.x",
@@ -60,7 +60,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1626157408440
+    "lastSave": 1626157463875
   },
   "VCS_STATE": {
     "provider": "GitHub",
